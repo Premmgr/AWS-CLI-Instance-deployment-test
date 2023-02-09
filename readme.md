@@ -22,10 +22,10 @@ aws configure
 then enter your secret information
 example:
 
->>> AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE  <<< access key for api calls
->>> AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPx  << secret key for api calls
->>> Default region name [None]: eu-west-3
->>> Default output format [None]: yaml
+>>> AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE  <<< access key for api calls 
+>>> AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPx  << secret key for api calls 
+>>> Default region name [None]: eu-west-3 
+>>> Default output format [None]: yaml 
 
 step 4
 
