@@ -10,26 +10,26 @@ if aws cli is installed before then run
 ./launch_instance.sh install
 this will download,verify gpg sha256 verification and install aws cli to /usr/bin/local and /usr/bin/aws-cli
 
-step 2
-if you have not created vpc,vpc-subnet,security-groups,internet gateway then created at aws console
-and modify  >>> custom.env 
+step 2  
+if you have not created vpc,vpc-subnet,security-groups,internet gateway then created at aws console  
+and modify  >>> custom.env   
 
-without your correct value
+without your correct value  
 
-step 3
-aws configure
+step 3 
+aws configure 
 
-then enter your secret information
-example:
+then enter your secret information 
+example: 
 
 AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE  <<< access key for api calls 
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPx  << secret key for api calls  
-Default region name [None]: eu-west-3  
-Default output format [None]: yaml 
+AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPx  << secret key for api calls   
+Default region name [None]: eu-west-3   
+Default output format [None]: yaml  
 
-step 4
+step 4 
 
-./launch_instance launch
+./launch_instance launch 
 
-your instance should launch in some minutes.
+your instance should launch in some minutes. 
 
