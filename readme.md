@@ -4,7 +4,7 @@ before running launch option make sure you have created vpc,vpc-subnet,security-
 
 more features can be added to the tool, new version might come around soon.
 
-usage:
+usage: 
 step 1
 if aws cli is installed before then run
 ./launch_instance.sh install
