@@ -2,7 +2,7 @@ this tool allows you to install quickly aws cli and lunch instances with custom.
 
 before running launch option make sure you have created vpc,vpc-subnet,security-groups,internet gateway otherwise script aws cli will throw an error.
 
-more features can be added to the tool, new version might come arround soon.
+more features can be added to the tool, new version might come around soon.
 
 usage:
 step 1
